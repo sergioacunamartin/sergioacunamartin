@@ -4,6 +4,6 @@ Empecé en el mundo del diseño web allá por el 2006. He trabajado en distintas
 
 En 2022 empecé a interesarme más por el mundo de la programación y decidí apuntarme a un máster de python para aumentar mis conocimientos. Las prácticas de dicho máster las terminé en mayo del 2024.
 
-Actualmente sigo adquiriendo renovando y adquiriendo nuevos conocimientos.
+Actualmente sigo renovando y adquiriendo conocimientos.
 
 <h3>En breve subiré algunos de mis proyectos. Un saludo! 👋</h3>  
