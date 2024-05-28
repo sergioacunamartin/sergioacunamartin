@@ -6,4 +6,4 @@ En 2022 empecé a interesarme más por el mundo de la programación y decidí ap
 
 Actualmente sigo adquiriendo renovando y adquiriendo nuevos conocimientos.
 
-<h2>En breve subiré algunos de mis proyectos. Un saludo! 👋</h2>  
+<h3>En breve subiré algunos de mis proyectos. Un saludo! 👋</h3>  
