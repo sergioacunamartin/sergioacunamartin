@@ -21,6 +21,8 @@ Actualmente sigo renovando y adquiriendo conocimientos.
 <a href="https://github.com/sergioacunamartin/app-gestion-productos" title="Ver App Gestión de Productos" rel="nofollow">
 <img src="https://github.com/sergioacunamartin/sergioacunamartin/blob/main/miniaturas/miniatura-app-gestion-productos.jpg" alt="Miniatura proyecto App Gestión de Productos style="max-width: 100%;">
 </a>
+<h4 style="text-align:center;">App de Gestión de Productos (2022)</h4>  
+<p style="text-align: justify;">Esta app de gestión de productos te permite añadir, editar y eliminar productos.</p>  
 </td>
 <td>
 <a href="https://github.com/sergioacunamartin/app-gestion-tareas" title="Ver App Gestión de Tareas" rel="nofollow">
