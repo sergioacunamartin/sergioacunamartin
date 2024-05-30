@@ -23,11 +23,5 @@ Actualmente sigo renovando y adquiriendo conocimientos.
 </a>
 <h4 style="text-align:center;">App de Gestión de Productos (2022)</h4>  
 </td>
-<td>
-<a href="https://github.com/sergioacunamartin/app-gestion-tareas" title="Ver App Gestión de Tareas" rel="nofollow">
-<img src="https://github.com/sergioacunamartin/sergioacunamartin/blob/main/miniaturas/miniatura-app-tareas.jpg" alt="Miniatura proyecto App Gestión de Tareas style="max-width: 100%;">
-</a>
-<h4 style="text-align:center;">CRM Básico (2023)</h4> 
-</td>  
 </tr>
 </tbody></table>
