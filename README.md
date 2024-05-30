@@ -18,8 +18,8 @@ Actualmente sigo renovando y adquiriendo conocimientos.
 <p style="text-align: justify;">Está app es una especie de agenda personal donde pondremos insertar, editar, borrar, finalizar o reabrir tareas.</p>  
 </td>
 <td>
-<a href="https://github.com/sergioacunamartin/app-gestion-tareas" title="Ver App Gestión de Tareas" rel="nofollow">
-<img src="https://github.com/sergioacunamartin/sergioacunamartin/blob/main/miniaturas/miniatura-app-tareas.jpg" alt="Miniatura proyecto App Gestión de Tareas style="max-width: 100%;">
+<a href="https://github.com/sergioacunamartin/app-gestion-productos" title="Ver App Gestión de Productos" rel="nofollow">
+<img src="https://github.com/sergioacunamartin/sergioacunamartin/blob/main/miniaturas/miniatura-app-gestion-productos.jpg" alt="Miniatura proyecto App Gestión de Productos style="max-width: 100%;">
 </a>
 </td>
 <td>
